@@ -1,2 +1,2 @@
 # news
-cloudswit.ch
+www.cloudswit.ch
